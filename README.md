@@ -1,0 +1,1 @@
+Moteur graphique simple pour visualiser des objets en 3D
